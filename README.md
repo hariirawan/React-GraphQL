@@ -11,7 +11,7 @@ pada terminal kalian
 
 4. setelah itu # npm start
 
-#Langkah-langkah clone dan menjalankan client:
+#Menjalankan client:
 
 1. silahkan masuk ke directory client lalu buka terminal kalian ketik #npm install
 
