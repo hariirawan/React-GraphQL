@@ -4,3 +4,16 @@ body {
   padding: 0;
   font-family: 'Nunito', sans-serif;
 }
+
+.layout .logo {
+  background: rgba(255, 255, 255, 0.2);
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.ant-card-cover {
+  height: 150px;
+  overflow: hidden;
+}
